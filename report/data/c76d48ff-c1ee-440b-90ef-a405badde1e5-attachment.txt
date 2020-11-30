@@ -1,0 +1,5 @@
+[32m2020-11-27 11:25:34.057[0m | [34m[1mDEBUG   [0m | [36mtest.test_api[0m:[36mtest_main[0m:[36m68[0m - [34m[1m⬇️⬇️⬇️...执行用例编号:case_006...⬇️⬇️⬇️️[0m
+[32m2020-11-27 11:25:34.057[0m | [1mINFO    [0m | [36mtools.data_tearing[0m:[36mtreating_data[0m:[36m32[0m - [1m处理依赖前data的数据:[0m
+[32m2020-11-27 11:25:34.058[0m | [1mINFO    [0m | [36mtools.data_tearing[0m:[36mtreating_data[0m:[36m68[0m - [1mdata无数据，依赖无数据时 None[0m
+[32m2020-11-27 11:25:34.058[0m | [31m[1mERROR   [0m | [36mtools.data_tearing[0m:[36mtreating_data[0m:[36m84[0m - [31m[1m无法转换字典，进入下一个检查，本轮值不发生变化:,Expecting value: line 1 column 1 (char 0)[0m
+[32m2020-11-27 11:25:34.058[0m | [1mINFO    [0m | [36mtools.data_tearing[0m:[36mtreating_data[0m:[36m89[0m - [1m{'case_005': '$.data.id'}[0m
